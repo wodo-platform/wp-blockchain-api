@@ -49,7 +49,7 @@
 
 ## About
 
-This module contains API (application programming interface) definitions for blockchain integration. Platform Blockchain APIs define a standard way of any blockchain integration into the wodo platform. Any developer can implement and plug any blockchain integration as blockchain engine implementations. Out of the box the wodo platform has variaty of blockchain integration implementations such as nano, banano, avalanche as blockchain engines. Once blockchain engines are integrated to the wodo platform, all functionality and  capabilities are made available to public world (developers, game developers, 3rd party companies) via public APIs of the wodo platform
+This module contains API (application programming interface) definitions for blockchain integration. Platform Blockchain APIs define a standard way of any blockchain integration into the wodo platform. Any developer can implement and plug any blockchain integration as blockchain engine implementations. Out of the box the wodo platform has a variety of blockchain integration implementations such as nano, banano, avalanche as blockchain engines. Once blockchain engines are integrated to the wodo platform, all functionality and  capabilities are made available to public world (developers, game developers, 3rd party companies) via public APIs of the wodo platform
 
 ## Publish The Module as NPM Package Locally
 
